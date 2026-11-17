@@ -1,0 +1,11 @@
+geopandas
+matplotlib
+numpy
+contextily
+pillow
+rasterio
+pyproj
+pyogrio
+# ffmpeg needs to be installed separately, as it is not a Python package. 
+#   You can install it using your system's package manager
+#   or download it from the official website: https://ffmpeg.org/download.html
